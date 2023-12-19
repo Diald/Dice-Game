@@ -1,0 +1,22 @@
+body{
+  background-color: rgb(0, 0, 0);
+}
+.container{
+  text-align: center;
+  margin: auto;
+  width: 70%;
+}
+h1 {
+  text-align: center;
+  font-family: 'Lobster';
+  text-shadow: 2px 2px 4px rgba(0, 47, 47, 0.5); 
+  color: rgb(38, 190, 190);
+}
+.dice{
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+}
+img{
+  width: 80%;
+}
